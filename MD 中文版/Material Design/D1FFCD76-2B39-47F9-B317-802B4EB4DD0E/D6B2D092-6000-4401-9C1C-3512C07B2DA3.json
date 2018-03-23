@@ -1,7 +1,7 @@
 {
   "_class": "bitmap",
   "clippingMask": "{{0, 0}, {1, 1}}",
-  "do_objectID": "FBA4B5DC-A17C-41AF-B181-6E9A23706767",
+  "do_objectID": "D6B2D092-6000-4401-9C1C-3512C07B2DA3",
   "exportOptions": {
     "_class": "exportOptions",
     "exportFormats": [
@@ -15,14 +15,14 @@
   "frame": {
     "_class": "rect",
     "constrainProportions": true,
-    "height": 480,
-    "width": 760,
-    "x": 546,
-    "y": 1149
+    "height": 375,
+    "width": 375,
+    "x": 1024,
+    "y": 1926
   },
   "image": {
     "_class": "MSJSONFileReference",
-    "_ref": "images/6246d54b190638c831d3592581c93d1c10385ab9",
+    "_ref": "images/b44adae4b3b3412750a1e68104a679eab5cbb0ca",
     "_ref_class": "MSImageData"
   },
   "isFlippedHorizontal": false,
@@ -30,7 +30,7 @@
   "isLocked": false,
   "isVisible": true,
   "layerListExpandedType": 0,
-  "name": "whatismaterial-environment-3d",
+  "name": "whatismaterial-environment-shadow3",
   "nameIsFixed": false,
   "resizingConstraint": 63,
   "resizingType": 0,
