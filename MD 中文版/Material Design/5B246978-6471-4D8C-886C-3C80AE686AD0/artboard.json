@@ -50,6 +50,10 @@
     {
       "class": "bitmap",
       "id": "38E71BC6-AE6C-4537-8989-D7077FCA4FF3"
+    },
+    {
+      "class": "bitmap",
+      "id": "FBA4B5DC-A17C-41AF-B181-6E9A23706767"
     }
   ],
   "name": "Environment",
